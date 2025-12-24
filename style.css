@@ -50,6 +50,7 @@ input {
     outline: none;
     background: transparent;
     padding: 10px;
+    font-weight: 14px;
 }
 
 button {
@@ -71,6 +72,8 @@ ul li {
     user-select: none;
     cursor: pointer;
     position: relative;
+    color: #555;
+    
 }
 
 ul li::before {
